@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "popmotion": "8.1.24"
+  },
+  "name": "popmotion",
+  "version": "1.0.0",
+  "main": "animation.js",
+  "repository": "git@github.com:gnurg/popmotion.git",
+  "author": "gnurg <17333864+gnurg@users.noreply.github.com>",
+  "license": "MIT"
+}

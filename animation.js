@@ -1,4 +1,7 @@
-const { styler, spring, listen, pointer, value } = window.popmotion;
+//import popmotion from "popmotion";
+const popmotion = require("popmotion");
+
+const { styler, spring, listen, pointer, value } = popmotion;
 // same as:
 //const spring = window.popmotion.spring;
 
